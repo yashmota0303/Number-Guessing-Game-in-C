@@ -43,6 +43,7 @@ gcc guess_gameV2.c -o guessing_game
 
 IF YOU FIND ANY BUGS OR PROBLEMS, DO LET ME KNOW AND CAN GET A FREE BURGER.₹
 
+upcoming features : able to store previous highscores even after leaving the game and playing again.
 
 
 
