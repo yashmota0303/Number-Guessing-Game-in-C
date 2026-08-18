@@ -47,4 +47,4 @@ IF YOU FIND ANY BUGS OR PROBLEMS, DO LET ME KNOW AND CAN GET A FREE BURGER.₹
 
 
 
-₹ means that burger value should be upto ₹100 only.
+₹ means that burger value should be upto ₹100 only..
